@@ -52,6 +52,14 @@ This things will be Edited soon these are just Template
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
+
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/Ayushpanditmoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaita raj modak" height="30" width="40" /></a>&nbsp
+<a href="https://leetcode.com/Ayushpanditmoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajmodak" height="30" width="40" /></a>&nbsp
+</p>
+</br></br>
+
 ### GitHub Stats
 
 <p align="center">
