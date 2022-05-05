@@ -60,9 +60,18 @@ This things will be Edited soon these are just Template
 </p>
 </br></br>
 
+
+
+
 ### GitHub Stats
 
 <p align="center">
+  
+  ![](https://activity-graph.herokuapp.com/graph?username=Ayushpanditmoto&theme=react-dark&hide_border=true&area=true)
+
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ayushpanditmoto&count_private=true&show_icons=true&theme=light" width="400"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushpanditmoto" width="400">
   <a href = "https://github.com/Ayushpanditmoto">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=Ayushpanditmoto&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
